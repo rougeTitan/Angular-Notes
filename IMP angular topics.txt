@@ -1,0 +1,4 @@
+To understand angular, you must know the following concepts and fundamentals around it.
+Index Topic Link1What is Angularhttps://angular.io/2Angular CLIhttps://angular.io/cli3How Angular Application Boot up?4Components in Angular5Understanding App.module.ts6Data binding7String Interpolation8Property binding9Event binding10Two-way data binding11Directives12SourceMap plugin for debugginghttps://medium.com/angular-in-depth/debug-angular-apps-in-production-without-revealing-source-maps-ab4a235edd85 13LifeCycle hooks14Services and dependency injection15Cross component communication 16Routing17Observables18Forms19Pipes 20Http request21Authentication and route protection22Deployment 
+Rest of the angular topics can be learned by following the angular documentation which you can find at - https://angular.io/
+
