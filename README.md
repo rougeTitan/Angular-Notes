@@ -26,3 +26,7 @@
 | 22  | Authentication and route protection |
 | 23  | Deployment  |
 
+
+
+| course link  | https://www.udemy.com/course/the-complete-guide-to-angular-2  |
+
